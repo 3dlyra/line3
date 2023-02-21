@@ -22,7 +22,7 @@ console.log( Line3.intersectsPoint( line3, [ 0, 0.5, 0 ], 0.1 ) ) // true
 
 //
 
-const out = Line3.nearestPoint( line3, [ -2, 1, 0 ] )
+const out = Line3.nearestPoint( line3, [ -2.5, 1, 0 ] )
 
 // Nearest point
 console.log( [ out[ 0 ], out[ 1 ], out[ 2 ] ] ) // [ -5, 0, 0 ]
