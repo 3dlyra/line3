@@ -1,0 +1,36 @@
+{
+	"name": "@3dlyra/line3",
+	"version": "1.0.0",
+	"description": "This library is a line3 part of the 3DLyra's math library.",
+	"main": "line3.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/3dlyra/line3.git"
+	},
+	"files": [
+		"line3.js",
+		"line3.d.ts"
+	],
+	"keywords": [
+		"3dlyra",
+		"line3",
+		"math"
+	],
+	"author": "3DLyra",
+	"collaborators": [
+		"3DLyra <contact@3dlyra.com>"
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/3dlyra/line3/issues",
+		"email": "contact@3dlyra.com"
+	},
+	"homepage": "https://www.3dlyra.com",
+	"funding": {
+		"type": "buymeacoffee",
+		"url": "https://www.buymeacoffee.com/3dlyra"
+	}
+}
