@@ -1,6 +1,6 @@
 {
 	"name": "@3dlyra/line3",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "This library is a line3 part of the 3DLyra's math library.",
 	"main": "line3.js",
 	"scripts": {
