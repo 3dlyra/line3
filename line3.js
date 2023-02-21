@@ -3,7 +3,7 @@ export function create( v3a, v3b ) {
 	return new Float32Array( [ ...v3a, ...v3b ] )
 }
 
-export function intersectsPoint( line, v3, tolerance ) {
+export function intersectsPoint( line3, v3, tolerance ) {
 
 	tolerance = tolerance || 0
 

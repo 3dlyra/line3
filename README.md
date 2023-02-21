@@ -27,5 +27,5 @@ console.log( Line3.intersectsPoint( line, [ 0, 0.5, 0 ], 0.1 ) ) // true
 // type line3 = Float32Array( 6 )
 
 quadratic( v3a: vector3, v3a: vector3 ): Float32Array;
-intersectsPoint( line: line3, v3: vector3, tolerance?: number ): boolean;
+intersectsPoint( line3: line3, v3: vector3, tolerance?: number ): boolean;
 ```
